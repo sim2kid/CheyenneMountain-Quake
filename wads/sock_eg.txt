@@ -1,0 +1,89 @@
+============================================================
+Date:             14th September 2001.
+file:             sock_eg.zip
+authors:          Sock / Fr3n
+email:            sock@planetquake.com / suspenlute@aol.com
+URL:              http://www.planetquake.com/simland / ?
+Version:          Q1 special edition :)
+
+============================================================
+
+  Fr3n at the keyboard here. Sock saw my conversion work 
+on Mr.CleaN's egyptian textures for my own Q1 map Perssp2 
+and enlisted my marginal sk1llz to make this Q1 WAD out of 
+his SPECTACULAR egyptian-themed set.
+  The originals are very bright, which I'm told is a good 
+thing in Q3A. Quake uses darker colors so I tried to tone 
+them down as much as possible without obliterating any 
+detail. Since sock drew this as a completely self-sufficient 
+set, getting the textures to cooperate with stock ones 
+wasn't a priority. (where the hell are the doors, sock?)
+  I especially like the huge assortment of 16-unit trims. 
+You can get really colorful effects with one on top of a 
+different one, etc. Use your imagination and have fun.
+  ANYONE USING THESE TEXTURES MUST GIVE CREDIT TO SOCK.
+  YOU MAY NOT USE THESE TEXTURES TO MAKE MAPS THAT SUCK.
+  Play safely. - Fr3n
+
+
+(sock's original readme follows :))
+============================================================
+Date:             13th August 2001.
+file:             tp-egyptian.zip
+author:           Sock 
+email:            sock@planetquake.com
+URL:              http://www.planetquake.com/simland
+Version:          1.5
+
+============================================================
+
+COPYRIGHT NOTICES
+-----------------
+
+If you use any of these Egyptian shader/textures I kindly ask
+YOU to give me credit for my work within your README file or
+TEXT file distributed with your map/mod.
+
+============================================================
+
+Testing of Shaders
+------------------
+
+* All of the shaders included with this texture pack have been 
+  tested with Q3 point release 1.27g.
+
+============================================================
+
+Instructions for using the Egyptian Texture Pack
+---------------------------------------------------
+
+** You must have installed the Q3 editor tools first **
+
+1. Extract the tp-egyptian.zip file in the BASEQ3 directory.
+   This will create 6 texture directory under the
+   BASEQ3/TEXTURES directory as follows :-
+
+   BASEQ3/TEXTURES/EGYPTSOC_FLOOR
+   BASEQ3/TEXTURES/EGYPTSOC_MAT
+   BASEQ3/TEXTURES/EGYPTSOC_SFX
+   BASEQ3/TEXTURES/EGYPTSOC_TRIM
+   BASEQ3/TEXTURES/EGYPTSOC_TRIMD
+   BASEQ3/TEXTURES/EGYPTSOC_WALL
+   
+2. Goto the SCRIPTS sub-directory under the BASEQ3
+   directory and find the following 
+   file :- SHADERLIST.TXT.
+   
+3. Open this file up in a text editor and add the
+   following line at the bottom of the file.
+   
+   EGYPTSOC
+   
+4. Close the file and open Q3Radiant and you should
+   find on the texture menu the 1 new subdirectory.
+
+For a full explaination of each texture/shader please
+refer to the website.
+
+Enjoy
+Sock
