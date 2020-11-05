@@ -1,0 +1,16 @@
+tools
+working/compile.bat
+working/run.bat
+*.PAK
+*.pak
+*.dll
+*.zip
+*.exe
+*.sav
+*.prt
+Quakespasm.html
+quakespasm.pak
+Quakespasm.txt
+Quakespasm-Music.txt
+stdout.txt
+id1/maps/autosave
