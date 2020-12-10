@@ -24,3 +24,4 @@ Check out these pages on the Wiki!
 * [Areas](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Areas)
 * [Enemies](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Enemies)
 * [Bubble Diagram](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Bubble-Diagram)
+* [Topdown and Game Play](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Topdown-and-Game-Play)
