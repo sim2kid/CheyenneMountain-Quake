@@ -21,3 +21,6 @@ Want to see how the map designed?
 Check out these pages on the Wiki!
 * [Theme](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Theme)
 * [Process Journal](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Process-Journal)
+* [Areas](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Areas)
+* [Enemies](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Enemies)
+* [Bubble Diagram](https://github.com/sim2kid/CheyenneMountain-QuakeMap/wiki/Bubble-Diagram)
