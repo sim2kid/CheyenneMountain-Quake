@@ -4,62 +4,60 @@ Output file: CheyenneMountain.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         1162 faces
-          195 brushes
-           17 entities
-            7 unique texnames
-           49 texinfo
+         1180 faces
+          198 brushes
+           80 entities
+            8 unique texnames
+           55 texinfo
 
-Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/prototype.wad
 Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/SiN.wad
+Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/prototype.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           189 brushes
-          270 planes
+          269 planes
 ---- CSGFaces ----
          1126 brushfaces
-         1014 csgfaces
-          924 mergedfaces
+         1030 csgfaces
+          936 mergedfaces
 ---- SolidBSP ----
-         1168 split nodes
-          482 solid leafs
-          687 empty leafs
+         1211 split nodes
+          499 solid leafs
+          713 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         2091 leaffaces
-         1881 nodefaces
+         2162 leaffaces
+         1934 nodefaces
 ---- Portalize ----
-          687 vis leafs
-          687 vis clusters
-         1975 vis portals
+          713 vis leafs
+          713 vis clusters
+         2045 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (-192 48 24), no filling performed.
+*** WARNING 10: Reached occupant at (376 808 8), no filling performed.
 Leak file written to CheyenneMountain.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote CheyenneMountain.bsp
-          652 planes            13040
-         2548 vertexes          30576
-         1204 nodes             28896
-           33 texinfo            1320
-         1917 faces             38340
-         2298 clipnodes         18384
-          724 leafs             20272
-         2127 marksurfaces       4254
-         7666 surfedges         30664
-         5199 edges             20796
-            7 textures         132232
+          524 planes            10480
+         2640 vertexes          31680
+         1265 nodes             30360
+           44 texinfo            1760
+         1988 faces             39760
+          828 clipnodes          6624
+          768 leafs             21504
+         2216 marksurfaces       4432
+         7956 surfedges         31824
+         5391 edges             21564
+            8 textures         137716
               lightdata             0
               visdata               0
-              entdata            1080
+              entdata            7096
 
-0.290 seconds elapsed
-Peak memory usage: 11633422 (11.1M)
+0.324 seconds elapsed
+Peak memory usage: 11271400 (10.7M)
