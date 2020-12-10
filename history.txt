@@ -1,0 +1,12 @@
+load HateforgeManor_Graybox
+map forgeManor_Graybox
+forgeManor_Graybox
+map hateforge_manor
+map hateforgemanor_graybox
+map curruptrealmfinal
+map corruptrealmfinal
+map outpostzeta
+god
+noclip
+god
+noclip

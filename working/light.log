@@ -11,16 +11,14 @@ WARNING: entity at (-512 488 32) (monster_army) has targetname "a1-grunt1", whic
 WARNING: entity at (376 808 8) (path_corner) has unmatched "target" (c)
 WARNING: entity at (376 616 8) (path_corner) has targetname "a2-p1-1", which is not targeted by anything.
 WARNING: entity at (720 1120 24) (monster_army) has empty key/value "targetname" ""
-WARNING: entity at (704 848 24) (monster_army) has empty key/value "targetname" ""
-WARNING: entity at (736 848 24) (monster_army) has empty key/value "targetname" ""
-WARNING: entity at (1680 1000 -232) (monster_dog) has empty key/value "targetname" ""
+WARNING: entity at (720 624 24) (monster_army) has empty key/value "targetname" ""
 WARNING: entity at (1440 888 -232) (monster_army) has empty key/value "targetname" ""
-74 entities read, 0 are lights.
+80 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	1934 solid faces
+	2540 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -37,7 +35,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing CheyenneMountain.bsp as BSP version 29
-0.176 seconds elapsed
+0.218 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
