@@ -1,0 +1,65 @@
+---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
+Input file: CheyenneMountain.map
+Output file: CheyenneMountain.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         1162 faces
+          195 brushes
+           17 entities
+            7 unique texnames
+           49 texinfo
+
+Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/prototype.wad
+Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/SiN.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          189 brushes
+          270 planes
+---- CSGFaces ----
+         1126 brushfaces
+         1014 csgfaces
+          924 mergedfaces
+---- SolidBSP ----
+         1168 split nodes
+          482 solid leafs
+          687 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2091 leaffaces
+         1881 nodefaces
+---- Portalize ----
+          687 vis leafs
+          687 vis clusters
+         1975 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-192 48 24), no filling performed.
+Leak file written to CheyenneMountain.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+Wrote CheyenneMountain.bsp
+          652 planes            13040
+         2548 vertexes          30576
+         1204 nodes             28896
+           33 texinfo            1320
+         1917 faces             38340
+         2298 clipnodes         18384
+          724 leafs             20272
+         2127 marksurfaces       4254
+         7666 surfedges         30664
+         5199 edges             20796
+            7 textures         132232
+              lightdata             0
+              visdata               0
+              entdata            1080
+
+0.290 seconds elapsed
+Peak memory usage: 11633422 (11.1M)
