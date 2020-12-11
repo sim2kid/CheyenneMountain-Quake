@@ -2,8 +2,6 @@ noclip
 god
 noclip
 god
-noclip
-god
 norarget
 notarget
 god
@@ -29,3 +27,4 @@ noclip
 notarget
 god
 noclip
+god
