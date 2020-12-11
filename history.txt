@@ -1,12 +1,31 @@
-load HateforgeManor_Graybox
-map forgeManor_Graybox
-forgeManor_Graybox
-map hateforge_manor
-map hateforgemanor_graybox
-map curruptrealmfinal
-map corruptrealmfinal
-map outpostzeta
+noclip
 god
 noclip
+god
+noclip
+god
+norarget
+notarget
+god
+notarget
+god
+noclip
+notarget
+noclip
+god
+noclipnotarget
+notarget
+noclip
+notarget
+noclip
+god
+noclip
+god
+noclip
+god
+noclip
+god
+noclip
+notarget
 god
 noclip
