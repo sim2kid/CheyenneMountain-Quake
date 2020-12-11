@@ -1,8 +1,3 @@
-noclip
-god
-noclip
-god
-norarget
 notarget
 god
 notarget
@@ -27,4 +22,9 @@ noclip
 notarget
 god
 noclip
+god
+noclip
+map entrance
+map
+map start
 god
