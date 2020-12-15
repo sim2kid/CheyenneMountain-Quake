@@ -1,7 +1,4 @@
 notarget
-god
-noclip
-notarget
 noclip
 god
 noclipnotarget
@@ -28,3 +25,7 @@ map start
 god
 Developer 1
 developer 1
+god
+noclip
+god
+noclip
