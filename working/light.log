@@ -1,5 +1,5 @@
 ---- light / ericw-tools v0.18.1-32-g6660c5f ----
-extra 2x2 sampling enabled
+extra 4x4 sampling enabled
 Raytracing backend: Embree
 running with 16 threads
 LoadBSPFile: 'CheyenneMountain.bsp'
@@ -16,13 +16,14 @@ WARNING: entity at (1440 888 -232) (monster_army) has empty key/value "targetnam
 WARNING: entity at (1256 1104 -496) (weapon_nailgun) has empty key/value "targetname" ""
 WARNING: brush entity with mins (1097.00 1089.00 -511.00) maxs (1103.00 1151.00 -417.00) (func_door) has empty key/value "dmg" ""
 WARNING: brush entity with mins (737.00 1089.00 -511.00) maxs (743.00 1151.00 -417.00) (func_door) has empty key/value "dmg" ""
-WARNING: brush entity with mins (250.00 1737.00 -495.00) maxs (251.00 1975.00 -417.00) (func_door) has empty key/value "targetname" ""
-110 entities read, 0 are lights.
+WARNING: brush entity with mins (201.00 1729.00 -511.00) maxs (239.00 1991.00 -401.00) (trigger_once) has empty key/value "targetname" ""
+112 entities read, 0 are lights.
 --- OptionsSummary ---
+    "bounce" was set to "1" from commandline
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	7799 solid faces
+	8114 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -32,14 +33,18 @@ SetupLights: 0 after jittering
 
 Final count: 0 lights, 0 suns in use.
 --- LightWorld ---
+--- MakeTextureColors ---
+--- MakeBounceLights ---
+0....1....2....3....4....5....6....7....8....9....
 --- LightThread ---
 0....1....2....3....4....5....6....7....8....9....
+Indirect lights: 8086 bounce lights, 0 surface lights (0 light points) in use.
 Lighting Completed.
 
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing CheyenneMountain.bsp as BSP version 29
-0.379 seconds elapsed
+1.028 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

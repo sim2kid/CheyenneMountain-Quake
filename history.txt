@@ -1,7 +1,5 @@
 notarget
 god
-notarget
-god
 noclip
 notarget
 noclip
@@ -28,3 +26,5 @@ map entrance
 map
 map start
 god
+Developer 1
+developer 1
