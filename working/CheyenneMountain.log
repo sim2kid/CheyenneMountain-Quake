@@ -4,8 +4,8 @@ Output file: CheyenneMountain.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         5819 faces
-          972 brushes
+         5825 faces
+          973 brushes
           238 entities
            18 unique texnames
           179 texinfo
@@ -14,27 +14,27 @@ Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/SiN.wad
 Opened WAD: E:/2simm/Documents/GitHub/CheyenneMountain-QuakeMap/wads/prototype.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          927 brushes
+          928 brushes
          1172 planes
 ---- CSGFaces ----
-         5542 brushfaces
-         5317 csgfaces
-         4565 mergedfaces
+         5548 brushfaces
+         5316 csgfaces
+         4569 mergedfaces
 ---- SolidBSP ----
-         6095 split nodes
-         2444 solid leafs
-         3644 empty leafs
+         6101 split nodes
+         2445 solid leafs
+         3649 empty leafs
             8 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        10301 leaffaces
-         9011 nodefaces
+        10323 leaffaces
+         9031 nodefaces
 ---- Portalize ----
-         3652 vis leafs
-         3652 vis clusters
-        12233 vis portals
+         3657 vis leafs
+         3657 vis clusters
+        12244 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (376 808 8), no filling performed.
 Leak file written to CheyenneMountain.pts
@@ -45,19 +45,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote CheyenneMountain.bsp
          2078 planes            41560
-        12128 vertexes         145536
-         6341 nodes            152184
-          140 texinfo            5600
-         9279 faces            185580
+        12148 vertexes         145776
+         6347 nodes            152328
+          141 texinfo            5640
+         9299 faces            185980
          3442 clipnodes         27536
-         3892 leafs            108976
-        10570 marksurfaces      21140
-        37257 surfedges        149028
-        25123 edges            100492
+         3897 leafs            109116
+        10592 marksurfaces      21184
+        37337 surfedges        149348
+        25162 edges            100648
            20 textures         289204
               lightdata             0
               visdata               0
-              entdata           12512
+              entdata           12499
 
-1.210 seconds elapsed
-Peak memory usage: 44890988 (42.8M)
+1.215 seconds elapsed
+Peak memory usage: 44953604 (42.9M)

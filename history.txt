@@ -1,4 +1,3 @@
-notarget
 noclip
 god
 noclipnotarget
@@ -29,3 +28,4 @@ god
 noclip
 god
 noclip
+map cheyennemountain
