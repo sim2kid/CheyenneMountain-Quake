@@ -1,8 +1,3 @@
-noclip
-god
-noclipnotarget
-notarget
-noclip
 notarget
 noclip
 god
@@ -29,3 +24,4 @@ noclip
 god
 noclip
 map cheyennemountain
+map HateforgeManor
